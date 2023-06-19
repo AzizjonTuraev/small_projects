@@ -1,2 +1,2 @@
 # small_projects
-Here, I am saving my different small projects
+Hi all, here I am saving my different small projects
