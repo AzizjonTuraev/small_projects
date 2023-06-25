@@ -17,6 +17,37 @@ Neural Networks:
 - Recurrent
 - LSTM
 
-Reinforcement Learning:
 
-- 
+
+Supervised Learning Algorithms:
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees, Random Forests, Gradient Boosting (e.g., XGBoost, LightGBM)
+- Support Vector Machines (SVM)
+- k-Nearest Neighbors (k-NN)
+- Naive Bayes
+
+Unsupervised Learning Algorithms:
+
+- Clustering: k-Means , Hierarchical, DBSCAN (Density-Based Spatial Clustering of Applications with Noise), t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- Gaussian Mixture Models (GMM)
+- Principal Component Analysis (PCA)
+- Independent Component Analysis (ICA)
+- Association Rule Learning (Apriori, FP-Growth)
+- Anomaly Detection (One-Class SVM, Isolation Forest)
+- Self-Organizing Maps (SOM)
+
+
+Deep Learning Algorithms:
+
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+- Gated Recurrent Unit (GRU)
+- Deep Belief Networks (DBN)
+- Autoencoders
+- Generative Adversarial Networks (GAN)
+- Variational Autoencoders (VAE)
+- Transformer Networks (e.g., BERT, GPT)
+- Deep Reinforcement Learning (DRL)
