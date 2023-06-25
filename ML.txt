@@ -1,0 +1,22 @@
+Supervised:
+
+- Logistic
+- Decision Tree: Random Forest, XGBoost, Gradient Boosting, AdaBoost 
+- Support Vector Machines (SVM)
+- Naive Bayes
+
+Unsupervised:
+
+- KNN Neigbours
+- Clustering: KMeans, DBSCAN, Hierarchical 
+- Dimensionality Reduction: PCA, LDA, t-SNE, Lasso, Ridge
+
+Neural Networks:
+
+- Convolutional
+- Recurrent
+- LSTM
+
+Reinforcement Learning:
+
+- 
